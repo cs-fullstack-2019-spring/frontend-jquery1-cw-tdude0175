@@ -17,7 +17,7 @@ Use jQuery and CSS to give the elements in the provided HTML their desired featu
 ```
 
 ### Exercise 2:
-Write the JavaScript needed hide, then unhide the middle image every 2 seconds (Hint: Interval)
+Write the JavaScript needed, hide then un-hide the middle image every 2 seconds (Hint: Interval)
 
 
 ### Exercise 3: 
